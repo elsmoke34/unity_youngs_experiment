@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/A\xE7\u0131l\u0131rPencere.unity"
+  isLoaded: 1
+  isActive: 1
